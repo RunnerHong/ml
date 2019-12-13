@@ -1,6 +1,6 @@
 # ml
 
-1. 下载训练好的pth文件，放入weight文件夹下
+1. 下载训练好的pth文件，放入weights文件夹下
 
 2. 准备好数据，数据目录下有两个文件夹，Image和Annotation。
     ```
